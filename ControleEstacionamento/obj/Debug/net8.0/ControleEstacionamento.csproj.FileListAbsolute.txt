@@ -1,0 +1,14 @@
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.exe
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.deps.json
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.runtimeconfig.json
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.dll
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.pdb
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.AssemblyInfoInputs.cache
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.AssemblyInfo.cs
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.csproj.CoreCompileInputs.cache
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.dll
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\net8.0\refint\ControleEstacionamento.dll
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.pdb
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.genruntimeconfig.cache
+C:\temp\projects\ControleEstacionamento\ControleEstacionamento\obj\Debug\net8.0\ref\ControleEstacionamento.dll
